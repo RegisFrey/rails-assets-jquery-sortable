@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-jquery-sortable",
+  "downloads": null,
+  "version": "0.9.13",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "licenses": "BSD-3",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://johnny.github.io/jquery-sortable",
+  "gem_uri": null,
+  "homepage_uri": "http://johnny.github.io/jquery-sortable",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://johnny.github.io/jquery-sortable",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
